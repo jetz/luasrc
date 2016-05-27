@@ -1,0 +1,3 @@
+[submodule "Lua-Source-Internal"]
+	path = Lua-Source-Internal
+	url = https://github.com/lichuang/Lua-Source-Internal
